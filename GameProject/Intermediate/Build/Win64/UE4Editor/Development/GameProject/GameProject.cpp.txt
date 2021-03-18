@@ -1,0 +1,2 @@
+D:\Documentos\Cursos\Udemy\UECplusplusTheUltimateGDC\course-ue-ultimategdc\GameProject\Intermediate\Build\Win64\UE4Editor\Development\GameProject\Definitions.GameProject.h
+D:\Documentos\Cursos\Udemy\UECplusplusTheUltimateGDC\course-ue-ultimategdc\GameProject\Source\GameProject\GameProject.h

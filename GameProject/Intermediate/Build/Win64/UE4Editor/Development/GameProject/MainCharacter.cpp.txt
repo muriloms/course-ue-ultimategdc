@@ -1,0 +1,7 @@
+D:\Documentos\Cursos\Udemy\UECplusplusTheUltimateGDC\course-ue-ultimategdc\GameProject\Intermediate\Build\Win64\UE4Editor\Development\GameProject\Definitions.GameProject.h
+D:\Documentos\Cursos\Udemy\UECplusplusTheUltimateGDC\course-ue-ultimategdc\GameProject\Source\GameProject\MainCharacter.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Documentos\Cursos\Udemy\UECplusplusTheUltimateGDC\course-ue-ultimategdc\GameProject\Intermediate\Build\Win64\UE4Editor\Inc\GameProject\MainCharacter.generated.h

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Documentos\\Cursos\\Udemy\\UECplusplusTheUltimateGDC\\course-ue-ultimategdc\\GameProject\\Source\\GameProject\\GameProject.Build.cs",
+		"D:\\Documentos\\Cursos\\Udemy\\UECplusplusTheUltimateGDC\\course-ue-ultimategdc\\GameProject\\Source\\GameProject.Target.cs",
+		"D:\\Documentos\\Cursos\\Udemy\\UECplusplusTheUltimateGDC\\course-ue-ultimategdc\\GameProject\\Source\\GameProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}
