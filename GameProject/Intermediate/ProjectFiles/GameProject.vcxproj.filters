@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\GameProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D4DF9A7B-0708-4929-A5EE-2233FC0C586B}</UniqueIdentifier>
+      <UniqueIdentifier>{9BDB714F-D930-48E5-99DB-F0E7BC5F7B76}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GameProject.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{B172F274-8657-43C7-A239-A2167FAABEE5}</UniqueIdentifier>
+      <UniqueIdentifier>{E8422434-17D6-4409-94DD-706A33E604FE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\GameProject">
-      <UniqueIdentifier>{F404857E-855D-4238-B45D-50BC8362B706}</UniqueIdentifier>
+      <UniqueIdentifier>{4FDB4800-C028-4196-BA82-BDA536C92C4E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GameProject\GameProject.Build.cs">
       <Filter>Source\GameProject</Filter>
@@ -46,6 +46,21 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\GameProject\MainCharacter.h">
       <Filter>Source\GameProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameProject\NewObject.cpp">
+      <Filter>Source\GameProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameProject\NewObject.h">
+      <Filter>Source\GameProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\GameProject\GameplayActors">
+      <UniqueIdentifier>{C4DCD091-4F23-4852-B139-8090DB37FFAA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GameProject\GameplayActors\Floater.cpp">
+      <Filter>Source\GameProject\GameplayActors</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameProject\GameplayActors\Floater.h">
+      <Filter>Source\GameProject\GameplayActors</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

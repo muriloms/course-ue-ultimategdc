@@ -1,0 +1,8 @@
+D:\Documentos\Cursos\Udemy\UECplusplusTheUltimateGDC\course-ue-ultimategdc\GameProject\Intermediate\Build\Win64\UE4Editor\Development\GameProject\Definitions.GameProject.h
+D:\Documentos\Cursos\Udemy\UECplusplusTheUltimateGDC\course-ue-ultimategdc\GameProject\Source\GameProject\MyObject.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+D:\Documentos\Cursos\Udemy\UECplusplusTheUltimateGDC\course-ue-ultimategdc\GameProject\Intermediate\Build\Win64\UE4Editor\Inc\GameProject\MyObject.generated.h
